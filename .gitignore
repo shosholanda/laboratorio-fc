@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
 
+#emacs trash
+*\#
+\.#
+
 # Log file
 *.log
 
